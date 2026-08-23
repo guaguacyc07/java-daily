@@ -1,6 +1,10 @@
 # Set 常用 API
 
-> Set 用于**去重**和**判存在**。三个实现：`HashSet`（无序，最常用）、`LinkedHashSet`（保持插入顺序）、`TreeSet`（元素升序）。
+> Set 用于**去重**和**判存在**。
+>
+> 三个实现：`HashSet`（无序，最常用）、`LinkedHashSet`（保持插入顺序）、`TreeSet`（元素升序）。
+>
+> AI生成+人工优化
 
 ## 一、创建与初始化
 

@@ -1,6 +1,8 @@
 # List 常用 API（ArrayList）
 
-> 刷题 99% 用 `ArrayList`，`LinkedList` 极少用（见文末复杂度对比）。只讲高频、好记的方法，难一点的都配了小例子。
+> 刷题 99% 用 `ArrayList`，`LinkedList` 极少用（见文末复杂度对比）。
+>
+> AI生成+人工优化
 
 ## 一、创建与初始化
 
@@ -11,7 +13,9 @@ List<Integer> list3 = Arrays.asList(1, 2, 3);    // ⚠️ 定长视图，不能
 List<Integer> list4 = List.of(1, 2, 3);          // Java 9+，不可变
 ```
 
-> `Arrays.asList` 和 `List.of` 返回的 List **不能增删**。想要可变 List，用 `new ArrayList<>(Arrays.asList(1, 2, 3))` 包一层。
+> `Arrays.asList` 和 `List.of` 返回的 List **不能增删**。
+>
+> 想要可变 List，用 `new ArrayList<>(Arrays.asList(1, 2, 3))` 包一层。
 
 ## 二、增
 
@@ -33,6 +37,10 @@ List<Integer> list = new ArrayList<>(Arrays.asList(1, 2, 3));
 
 list.remove(1);                    // 删下标 1 → 删掉 2，结果 [1, 3]
 list.remove(Integer.valueOf(3));   // 删值 3 → 结果 [1]
+
+//常常会去删除list的最后一个元素
+list.remove(list.size() - 1);
+
 ```
 
 > ⚠️ **经典坑**：`remove(0)` 是"删下标 0"，不是"删值 0"。
@@ -44,8 +52,8 @@ list.remove(Integer.valueOf(3));   // 删值 3 → 结果 [1]
 list.get(i);        // 按下标取元素，O(1)
 list.size();        // 元素个数
 list.isEmpty();     // 是否为空
-list.contains(x);   // 是否包含，O(n)
-list.indexOf(x);    // 第一次出现的下标，不存在返回 -1
+list.contains(x);   // 是否包含，O(n)  返回boolean
+list.indexOf(x);    // 查找元素 x，返回它第一次出现的下标，不存在返回 -1
 ```
 
 ## 五、改
@@ -104,20 +112,7 @@ List<String> strs = new ArrayList<>(Arrays.asList("aaa", "b", "cc"));
 strs.sort(Comparator.comparingInt(String::length));   // b, cc, aaa
 ```
 
-## 九、subList（返回视图，改它会动原 List）
-
-```java
-List<Integer> list = new ArrayList<>(Arrays.asList(1, 2, 3, 4, 5));
-List<Integer> sub = list.subList(1, 4);    // [1,4) → [2, 3, 4]
-
-sub.set(0, 99);                            // 改 sub
-System.out.println(list);                  // [1, 99, 3, 4, 5] ← 原 List 也被改了！
-
-// 只想要子列表的"副本"，要 new 一份：
-List<Integer> copy = new ArrayList<>(list.subList(1, 4));
-```
-
-## 十、复杂度对照
+## 九、复杂度对照
 
 | 操作 | ArrayList | LinkedList |
 | ---- | --------- | ---------- |
@@ -128,7 +123,7 @@ List<Integer> copy = new ArrayList<>(list.subList(1, 4));
 
 > 结论：**刷题基本都用 ArrayList**。LinkedList 只有"频繁在头部插入/删除"才可能用到，几乎遇不到。
 
-## 十一、刷题高频套路
+## 十、刷题高频套路
 
 ### 1. 存结果（二维 List）
 
@@ -155,7 +150,7 @@ Set<Integer> seen = new HashSet<>();
 for (int x : list) if (seen.add(x)) res.add(x);
 ```
 
-## 十二、常见坑
+## 十一、常见坑
 
 1. **`remove(0)` 删的是下标不是值**：删整数 0 要用 `remove(Integer.valueOf(0))`。
 2. **`Arrays.asList` / `List.of` 定长**：不能 add/remove。
