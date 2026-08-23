@@ -10,6 +10,7 @@
 
 - **[1. Two Sum（两数之和）](hot100/1.%20Two%20Sum.md)**
 - **[2. Group Anagrams（字母异位词分组）](hot100/2.%20Group%20Anagrams.md)**
+- **[3. Longest Consecutive Sequence（最长连续序列）](hot100/3.%20Longest%20Consecutive%20Sequence.md)**
 
 ## 2. Java 刷题常用 API 📚 
 
@@ -19,7 +20,7 @@
 
 - 📃 [**List（ArrayList / LinkedList）**](java刷题常用API/List常用API.md)
 - 🗺️ **[Map（HashMap / LinkedHashMap / TreeMap）](java刷题常用API/Map常用API.md)**
-- 🎯 **Set（HashSet / LinkedHashSet / TreeSet）**
+- 🎯 [**Set（HashSet / LinkedHashSet / TreeSet）**](java刷题常用API/Set常用API.md)
 - 🥞 **Stack（栈）**
 - ↔️ **Queue / Deque（队列与双端队列）**
 - ⛰️ **PriorityQueue（优先队列 / 堆）**
