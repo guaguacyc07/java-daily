@@ -8,9 +8,18 @@
 
 > 题目按 LeetCode Hot100 题单顺序，从上到下排列
 
-- **[1. Two Sum（两数之和）](hot100/1.%20Two%20Sum.md)**
-- **[2. Group Anagrams（字母异位词分组）](hot100/2.%20Group%20Anagrams.md)**
-- **[3. Longest Consecutive Sequence（最长连续序列）](hot100/3.%20Longest%20Consecutive%20Sequence.md)**
+- **哈希**
+  - **[1. Two Sum（两数之和）](hot100/1.%20Two%20Sum.md)**
+  - **[2. Group Anagrams（字母异位词分组）](hot100/2.%20Group%20Anagrams.md)**
+  - **[3. Longest Consecutive Sequence（最长连续序列）](hot100/3.%20Longest%20Consecutive%20Sequence.md)**
+- **双指针**
+  - **[4. Move Zeroes（移动零）](hot100/4.%20Move%20Zeroes.md)**
+
+
+
+
+
+---
 
 ## 2. Java 刷题常用 API 📚 
 
