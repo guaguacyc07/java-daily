@@ -15,6 +15,7 @@
 - **双指针**
   - **[4. Move Zeroes（移动零）](hot100/4.%20Move%20Zeroes.md)**
   - **[5. Container With Most Water（盛最多水的容器）](hot100/5.%20Container%20With%20Most%20Water.md)**
+  - **[6. 3Sum（三数之和）](hot100/6.%203Sum.md)**
 
 
 
