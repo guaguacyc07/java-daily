@@ -17,6 +17,8 @@
   - **[5. Container With Most Water（盛最多水的容器）](hot100/5.%20Container%20With%20Most%20Water.md)**
   - **[6. 3Sum（三数之和）](hot100/6.%203Sum.md)**
   - **[7. Trapping Rain Water（接雨水）](hot100/7.%20Trapping%20Rain%20Water.md)**
+- **滑动窗口**
+  - **[8. Longest Substring Without Repeating Characters（无重复字符的最长子串）](hot100/8.%20Longest%20Substring%20Without%20Repeating%20Characters.md)**
 
 
 
@@ -34,7 +36,7 @@
 - 🗺️ **[Map（HashMap / LinkedHashMap / TreeMap）](java刷题常用API/Map常用API.md)**
 - 🎯 [**Set（HashSet / LinkedHashSet / TreeSet）**](java刷题常用API/Set常用API.md)
 - 🥞 **Stack（栈）**
-- ↔️ **Queue / Deque（队列与双端队列）**
+- ↔️ [**Queue / Deque（队列与双端队列）**](java刷题常用API/Queue常用API.md)
 - ⛰️ **PriorityQueue（优先队列 / 堆）**
 - 🔤 **String / StringBuilder**
 
