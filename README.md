@@ -41,7 +41,7 @@
 - 🎯 [**Set（HashSet / LinkedHashSet / TreeSet）**](java刷题常用API/Set常用API.md)
 - 🥞 **Stack（栈）**
 - ↔️ [**Queue / Deque（队列与双端队列）**](java刷题常用API/Queue常用API.md)
-- ⛰️ **PriorityQueue（优先队列 / 堆）**
+- ⛰️ [**PriorityQueue（优先队列 / 堆）**](java刷题常用API/PriorityQueue常用API.md)
 - 🔤 **String / StringBuilder**
 
 ### 2.2 工具类 🛠️ 
