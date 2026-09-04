@@ -24,6 +24,8 @@
   - **[10. Subarray Sum Equals K（和为 K 的子数组）](hot100/10.%20Subarray%20Sum%20Equals%20K.md)**
   - **[11. Sliding Window Maximum（滑动窗口最大值）](hot100/11.%20Sliding%20Window%20Maximum.md)**
   - **[12. Minimum Window Substring（最小覆盖子串）](hot100/12.%20Minimum%20Window%20Substring.md)**
+- **普通数组**
+  - **[13. Maximum Subarray（最大子数组和）](hot100/13.%20Maximum%20Subarray.md)**
 
 
 
