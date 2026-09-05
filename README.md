@@ -26,6 +26,7 @@
   - **[12. Minimum Window Substring（最小覆盖子串）](hot100/12.%20Minimum%20Window%20Substring.md)**
 - **普通数组**
   - **[13. Maximum Subarray（最大子数组和）](hot100/13.%20Maximum%20Subarray.md)**
+  - **[14. Merge Intervals（合并区间）](hot100/14.%20Merge%20Intervals.md)**
 
 
 
