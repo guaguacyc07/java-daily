@@ -82,7 +82,7 @@
 ### 3.1 Python 刷题常用 API 
 
 - **容器类 🧺** 
-  - 📋 **list / tuple（列表与元组）**
+  - 📋 [**list / tuple（列表与元组）**](Python-code/Python刷题常用API/list与tuple常用API.md)
   - 🗺️ **dict（字典）**
   - 🎯 **set（集合）**
   - 🔤 **str（字符串）**
