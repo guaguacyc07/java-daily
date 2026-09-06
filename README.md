@@ -4,7 +4,7 @@
 
 ## 1. java-code📝 
 
-### 1.1 Java 刷题常用 API 📚 
+### 1.1 Java 刷题常用 API 
 
 - **容器类 🧺** 
   - 📦 [**数组 Array**](java-code/java刷题常用API/数组常用API.md)
@@ -48,7 +48,7 @@
 
 ---
 
-## 2. MySQL-code 
+## 2. MySQL-code 🐬 
 
 > **MySQL笔记: [guaguacyc07/Gua-notes](https://github.com/guaguacyc07/Gua-notes)**
 
