@@ -1,8 +1,12 @@
-# ☕ code-daily
+# code-daily 📕
 
-记录刷题 🚀
+## 简介
 
-## 1. java-code📝 
+记录刷题🚀
+
+不限于`java, python, cpp, sql`等等
+
+## 1. java-code☕  
 
 ### 1.1 Java 刷题常用 API 
 
