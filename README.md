@@ -2,9 +2,9 @@
 
 记录刷题 🚀
 
-## 1. 题目📝 
+## 1. java-code📝 
 
-### 1.1 LeetCode-Hot100 
+### 1.1 Java-Hot100 
 
 > 题目按 LeetCode Hot100 题单顺序，从上到下排列
 
@@ -34,30 +34,37 @@
 
 ---
 
-## 2. Java 刷题常用 API 📚 
+### 1.2 Java 刷题常用 API 📚 
 
-### 2.1 容器类 🧺 
+- **容器类 🧺** 
+  - 📦 [**数组 Array**](java-code/java刷题常用API/数组常用API.md)
+  - 📃 [**List（ArrayList / LinkedList）**](java-code/java刷题常用API/List常用API.md)
+  - 🗺️ **[Map（HashMap / LinkedHashMap / TreeMap）](java-code/java刷题常用API/Map常用API.md)**
+  - 🎯 [**Set（HashSet / LinkedHashSet / TreeSet）**](java-code/java刷题常用API/Set常用API.md)
+  - 🥞 **Stack（栈）**
+  - ↔️ [**Queue / Deque（队列与双端队列）**](java-code/java刷题常用API/Queue常用API.md)
+  - ⛰️ [**PriorityQueue（优先队列 / 堆）**](java-code/java刷题常用API/PriorityQueue常用API.md)
+  - 🔤 **String / StringBuilder**
 
-- 📦 [**数组 Array**](java-code/java刷题常用API/数组常用API.md)
+- **工具类 🛠️** 
+  - 🧰 **Arrays**
+  - 🗃️ **Collections**
+  - ➗ **Math**
 
-- 📃 [**List（ArrayList / LinkedList）**](java-code/java刷题常用API/List常用API.md)
-- 🗺️ **[Map（HashMap / LinkedHashMap / TreeMap）](java-code/java刷题常用API/Map常用API.md)**
-- 🎯 [**Set（HashSet / LinkedHashSet / TreeSet）**](java-code/java刷题常用API/Set常用API.md)
-- 🥞 **Stack（栈）**
-- ↔️ [**Queue / Deque（队列与双端队列）**](java-code/java刷题常用API/Queue常用API.md)
-- ⛰️ [**PriorityQueue（优先队列 / 堆）**](java-code/java刷题常用API/PriorityQueue常用API.md)
-- 🔤 **String / StringBuilder**
+- **算法专题 🧠** 
+  - 🔀 **排序与比较器**
+  - 🔍 **二分查找**
+  - 🪟 **双指针 / 滑动窗口**
+  - 🔁 **类型转换速查**
+  - ⚙️ **位运算**
 
-### 2.2 工具类 🛠️ 
+---
 
-- 🧰 **Arrays**
-- 🗃️ **Collections**
-- ➗ **Math**
+## 2. MySQL-code 
 
-### 2.3 算法专题 🧠 
+### 2.1 高频 SQL 50 题（基础版）
 
-- 🔀 **排序与比较器**
-- 🔍 **二分查找**
-- 🪟 **双指针 / 滑动窗口**
-- 🔁 **类型转换速查**
-- ⚙️ **位运算**
+> 题目按 LeetCode 高频 SQL 50 题（基础版）题单顺序，从上到下排列
+
+- **查询**
+  - **[1. Recyclable and Low Fat Products（可回收且低脂的产品）](MySQL-code/高频%20SQL%2050%20题（基础版）/1.%20Recyclable%20and%20Low%20Fat%20Products.md)**
