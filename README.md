@@ -49,6 +49,7 @@
 - **普通数组**
   - **[13. Maximum Subarray（最大子数组和）](java-code/java-hot100/13.%20Maximum%20Subarray.md)**
   - **[14. Merge Intervals（合并区间）](java-code/java-hot100/14.%20Merge%20Intervals.md)**
+  - **[15. Rotate Array（轮转数组）](java-code/java-hot100/15.%20Rotate%20Array.md)**
 
 ---
 
