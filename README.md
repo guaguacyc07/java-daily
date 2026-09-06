@@ -24,8 +24,6 @@
   - 🗃️ **Collections**
   - ➗ **Math**
 
----
-
 ### 1.2 Java-Hot100 
 
 > 题目按 LeetCode Hot100 题单顺序，从上到下排列
@@ -94,11 +92,11 @@
   - 🔁 **itertools（排列组合等）**
   - 🧰 **functools（比较器 / 缓存）**
 
----
-
 ### 3.2 Python-牛客
 
 > 用于熟练Python语法
 
 - **算法学习篇**
   - [**BGN2 田忌赛马**](Python-code/Python-牛客/BGN2%20田忌赛马.md)
+
+---
