@@ -50,7 +50,7 @@
 
 ## 2. MySQL-code 
 
->  **MySQL笔记:  [guaguacyc07/Gua-notes](https://github.com/guaguacyc07/Gua-notes)**
+> **MySQL笔记: [guaguacyc07/Gua-notes](https://github.com/guaguacyc07/Gua-notes)**
 
 ### 2.1 高频 SQL 50 题（基础版）
 
