@@ -51,6 +51,17 @@
   - **[14. Merge Intervals（合并区间）](java-code/java-hot100/14.%20Merge%20Intervals.md)**
   - **[15. Rotate Array（轮转数组）](java-code/java-hot100/15.%20Rotate%20Array.md)**
 
+### 1.3 java-牛客
+
+> 这里的题主要用Python刷
+>
+> 只不过为了防止不会用 java 写acm模式的题, 所以再用java写了一遍
+>
+> 思路大概率直接写注释上了...
+
+- **算法学习篇**
+  - 
+
 ---
 
 ## 2. MySQL-code 🐬 
@@ -64,5 +75,30 @@
 - **查询**
   - **[1. Recyclable and Low Fat Products（可回收且低脂的产品）](MySQL-code/高频%20SQL%2050%20题（基础版）/1.%20Recyclable%20and%20Low%20Fat%20Products.md)**
 
+---
 
+## 3. Python-code 🐍 
 
+### 3.1 Python 刷题常用 API 
+
+- **容器类 🧺** 
+  - 📋 **list / tuple（列表与元组）**
+  - 🗺️ **dict（字典）**
+  - 🎯 **set（集合）**
+  - 🔤 **str（字符串）**
+  - ↔️ **deque（双端队列 · collections）**
+  - ⛰️ **heapq（堆 / 优先队列）**
+  - 🔍 **bisect（二分查找）**
+- **内置函数与标准库 🛠️** 
+  - ⚡ **内置函数（sorted / zip / enumerate 等）**
+  - 🔁 **itertools（排列组合等）**
+  - 🧰 **functools（比较器 / 缓存）**
+
+---
+
+### 3.2 Python-牛客
+
+> 用于熟练Python语法
+
+- **算法学习篇**
+  - 
