@@ -48,6 +48,7 @@
   - **[13. Maximum Subarray（最大子数组和）](java-code/java-hot100/13.%20Maximum%20Subarray.md)**
   - **[14. Merge Intervals（合并区间）](java-code/java-hot100/14.%20Merge%20Intervals.md)**
   - **[15. Rotate Array（轮转数组）](java-code/java-hot100/15.%20Rotate%20Array.md)**
+  - **[16. Product of Array Except Self（除自身以外数组的乘积）](java-code/java-hot100/16.%20Product%20of%20Array%20Except%20Self.md)**
 
 ### 1.3 java-牛客
 
