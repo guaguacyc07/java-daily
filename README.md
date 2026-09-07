@@ -66,6 +66,8 @@
 ## 2. MySQL-code 🐬 
 
 > **MySQL笔记: [guaguacyc07/Gua-notes](https://github.com/guaguacyc07/Gua-notes)**
+>
+> 这块的题解实在分不出精力写了, 依靠ai生成的, 但是答案是本人写的
 
 ### 2.1 高频 SQL 50 题（基础版）
 
@@ -73,6 +75,9 @@
 
 - **查询**
   - **[1. Recyclable and Low Fat Products（可回收且低脂的产品）](MySQL-code/高频%20SQL%2050%20题（基础版）/1.%20Recyclable%20and%20Low%20Fat%20Products.md)**
+  - **[2. Find Customer Referee（寻找用户推荐人）](MySQL-code/高频%20SQL%2050%20题（基础版）/2.%20Find%20Customer%20Referee.md)**
+  - **[3. Big Countries（大的国家）](MySQL-code/高频%20SQL%2050%20题（基础版）/3.%20Big%20Countries.md)**
+  - **[4. Article Views I（文章浏览 I）](MySQL-code/高频%20SQL%2050%20题（基础版）/4.%20Article%20Views%20I.md)**
 
 ---
 
