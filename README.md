@@ -23,6 +23,8 @@
   - 🧰 **Arrays**
   - 🗃️ **Collections**
   - ➗ **Math**
+- **算法专区 🧠** 
+  - ⚙️ [**位运算**](java-code/java刷题常用API/位运算.md)
 
 ### 1.2 Java-Hot100 
 
@@ -49,6 +51,7 @@
   - **[14. Merge Intervals（合并区间）](java-code/java-hot100/14.%20Merge%20Intervals.md)**
   - **[15. Rotate Array（轮转数组）](java-code/java-hot100/15.%20Rotate%20Array.md)**
   - **[16. Product of Array Except Self（除自身以外数组的乘积）](java-code/java-hot100/16.%20Product%20of%20Array%20Except%20Self.md)**
+  - **[17. First Missing Positive（缺失的第一个正数）](java-code/java-hot100/17.%20First%20Missing%20Positive.md)**
 
 ### 1.3 java-牛客
 
